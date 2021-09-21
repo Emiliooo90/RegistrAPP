@@ -42,7 +42,7 @@ export class IngresoPage implements OnInit {
 
      else
      {
-        this.router.navigate(['/pagina3'])
+      this.router.navigate(['/pagina3'])
      }
   }
 
